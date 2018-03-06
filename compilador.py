@@ -35,5 +35,3 @@ def leer(nombre):
     archivo.close()
     
 leer("pruebita.txt")
-
-#def verificar()
